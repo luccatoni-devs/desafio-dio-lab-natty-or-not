@@ -7,7 +7,7 @@ Este projeto explora o uso de inteligência artificial generativa para represent
 - **Leonardo.ai** – Para geração de imagem estática urbana hiper-realista  
 - **Runway ML** – Para animar cenas e dar movimento realista à imagem  
 - **ChatGPT** – Para auxiliar na criação de prompts e organização do conteúdo
-- 
+  
 ## 🤔 Processo de Criação  
 1. Criação do prompt com a ajuda do ChatGPT para gerar uma imagem urbana com Leonardo.ai  
 2. Ajustes manuais nos parâmetros de geração até chegar a uma cena com a vibe desejada (movimento, luz, reflexos, pessoas, etc.)  
