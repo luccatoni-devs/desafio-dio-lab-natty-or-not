@@ -1,0 +1,22 @@
+
+# PROMPTS UTILIZADOS
+
+===========================
+🖼️ Leonardo.ai — Imagem
+===========================
+
+Prompt (em inglês):
+A realistic and detailed urban city landscape at dusk, showing a mix of modern and old buildings, busy streets with people walking and cars passing, ambient lights turning on, subtle reflections on wet asphalt, a sense of daily life and routine, cinematic lighting, high detail --vibe of everyday hustle
+
+Prompt (em português):
+Uma paisagem urbana realista e detalhada ao entardecer, mostrando uma mistura de prédios modernos e antigos, ruas movimentadas com pessoas andando e carros passando, luzes ambientes se acendendo, reflexos sutis no asfalto molhado, uma sensação de vida cotidiana e rotina, iluminação cinematográfica, alto nível de detalhe — vibe de agitação do dia a dia
+
+===========================
+🎥 Runway — Movimento
+===========================
+
+Prompt (em inglês):
+Animate the scene by adding subtle camera movement forward, people walking naturally, cars slowly driving by, flickering lights from signs and buildings, reflections moving on the wet street — realistic motion, smooth transitions, city life energy
+
+Prompt (em português):
+Animar a cena com um leve movimento de câmera para frente, pessoas andando naturalmente, carros passando devagar, luzes piscando em letreiros e prédios, reflexos se movendo na rua molhada — movimento realista, transições suaves, energia da vida urbana
