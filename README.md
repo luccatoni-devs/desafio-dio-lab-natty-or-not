@@ -15,7 +15,7 @@ Este projeto explora o uso de inteligência artificial generativa para represent
 4. Exportação e documentação do processo e resultado neste repositório
 
 ## 🚀 Resultados  
-- 🖼️ Imagem gerada com Leonardo.ai: `./outputs/cena-urbana.png`  
+- 🖼️ Imagem gerada com Leonardo.ai: `./outputs/cena-urbana.jpg`  
 - 🎮 Vídeo animado com Runway: `./outputs/cena-urbana-animada.mp4`  
 - 📄 Prompts utilizados disponíveis na pasta `./prompts`
 
